@@ -1,8 +1,8 @@
 import random
-import prompt
 import math
 from brain_games.cli import welcome_user
 from brain_games.games.start_games import start_game
+
 
 def gcd():
     name = welcome_user()
