@@ -23,7 +23,7 @@ def prime():
                 if n % i == 0:
                     return False
             return True
-        correct_answer = 'yes' if is_prime(random_number) == True else 'no'
+        correct_answer = 'yes' if is_prime(random_number) else 'no'
         return question, correct_answer
 
     start_game(name, get_question_and_answer)
