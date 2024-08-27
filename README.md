@@ -1,14 +1,17 @@
-### Ascinema4:
-[![asciicast](https://asciinema.org/a/iZivD45OZxZqCiBEnVUf7pdTQ.svg)](https://asciinema.org/a/iZivD45OZxZqCiBEnVUf7pdTQ)
+### Asciinema brain-prime:
+[![asciicast](https://asciinema.org/a/lFrwTaVDj5alkKtf0Eud2beGX.svg)](https://asciinema.org/a/lFrwTaVDj5alkKtf0Eud2beGX)
 
-### Ascinema3:
-[![asciicast](https://asciinema.org/a/1tDrlhLuvenieJetSGooMVOz0.svg)](https://asciinema.org/a/1tDrlhLuvenieJetSGooMVOz0)
+### Asciinema brain-progression:
+[![asciicast](https://asciinema.org/a/lSqlBxKkdtRii3Cs2syYqAgP4.svg)](https://asciinema.org/a/lSqlBxKkdtRii3Cs2syYqAgP4)
 
-### Ascinema2:
-[![asciicast](https://asciinema.org/a/qmb0t0l3nJF2xtN7oRqDgE4gM.svg)](https://asciinema.org/a/qmb0t0l3nJF2xtN7oRqDgE4gM)
+### Asciinema brain-gcd:
+[![asciicast](https://asciinema.org/a/NN9oXrWYvUqKVMs4XgeslWYGf.svg)](https://asciinema.org/a/NN9oXrWYvUqKVMs4XgeslWYGf)
 
-### Asciinema1:
-[![asciicast](https://asciinema.org/a/tezsaFtgfjg60s12fbCCnZkud.svg)](https://asciinema.org/a/tezsaFtgfjg60s12fbCCnZkud)
+### Asciinema brain-calc:
+[![asciicast](https://asciinema.org/a/HfSgnnR3ECwn3mGk9U8a9cBaW.svg)](https://asciinema.org/a/HfSgnnR3ECwn3mGk9U8a9cBaW)
+
+### Asciinema brain-even:
+[![asciicast](https://asciinema.org/a/K75lTJck10JWc1ZAy80jESSOl.svg)](https://asciinema.org/a/K75lTJck10JWc1ZAy80jESSOl)
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/arsnovv/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/arsnovv/python-project-49/actions)
