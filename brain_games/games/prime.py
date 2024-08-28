@@ -3,6 +3,7 @@ import math
 from brain_games.cli import welcome_user
 from brain_games.games.start_games import start_game
 
+
 def is_prime(n):
     if n <= 1:
         return False
@@ -14,6 +15,7 @@ def is_prime(n):
         if n % i == 0:
             return False
     return True
+
 
 def prime():
     name = welcome_user()
