@@ -21,7 +21,7 @@ def progression():
         correct_answer = progression_list[random_index]
         progression_list[random_index] = '..'
 
-        question = f'Question:  {' '.join(map(str, progression_list))}'
+        question = f'Question: {' '.join(map(str, progression_list))}'
         return question, str(correct_answer)
 
     start_game(name, get_question_and_answer)
