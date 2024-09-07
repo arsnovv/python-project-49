@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Mind-games"
+name = "hexlet-code"
 version = "0.1.0"
 description = "Set of five console games built on the principle of popular mobile applications for brain training."
 authors = ["Григорий Арсёнов <Arsnov22@mail.ru>"]
