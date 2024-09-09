@@ -4,11 +4,11 @@ from brain_games.games.calc import calc
 from brain_games.cli import welcome_user
 
 
-def main():
+def calc_game():
     name = welcome_user()
     print('What is the result of the expression?')
     start_game(name, calc)
 
 
 if __name__ == "__main__":
-    main()
+    calc_game()

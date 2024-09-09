@@ -18,7 +18,7 @@ Set of five console games built on the principle of popular mobile applications 
 
    ```sh
    git clone https://github.com/arsnovv/python-project-49.git
-2. Go to the repository and install the commands:
+2.Go to the repository and install the commands:
    
     ```sh 
    cd python-project-49
