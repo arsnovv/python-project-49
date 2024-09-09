@@ -21,10 +21,12 @@ Set of five console games built on the principle of popular mobile applications 
 2.Go to the repository and install the commands:
    
     ```sh 
-   cd python-project-49
-   pipx install .
+    cd python-project-49
+    pipx install .
 
 
+### Asciinema installations:
+[![asciicast](https://asciinema.org/a/xgc9yQsRtMbiJF8ABbp8at0dp.svg)](https://asciinema.org/a/xgc9yQsRtMbiJF8ABbp8at0dp)
 
 ### Asciinema brain-prime:
 [![asciicast](https://asciinema.org/a/lFrwTaVDj5alkKtf0Eud2beGX.svg)](https://asciinema.org/a/lFrwTaVDj5alkKtf0Eud2beGX)
