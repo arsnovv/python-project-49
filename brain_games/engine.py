@@ -1,17 +1,14 @@
 
 def start_game(name, get_question_and_answer):
-    i = 0
-    while i < 3:
+    for i in range(3):
         question, correct_answer = get_question_and_answer()
-        print(question)
+        print(f'Question: {question}')
         answer = input('Your answer: ')
-        if answer == correct_answer:
-            i += 1
-            print('Correct!')
-        else:
+        if answer != correct_answer:
             print(
                 f"'{answer}' is wrong answer ;(. "
                 f"Correct answer was '{correct_answer}'.\n"
                 f"Let's try again, {name}!")
             return
+        print('Correct!')
     print(f"Congratulations, {name}!")

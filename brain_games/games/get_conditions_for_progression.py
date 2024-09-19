@@ -1,7 +1,7 @@
 import random
 
 
-def progression():
+def get_conditions_for_progression():
     num1 = random.randint(1, 100)
     num2 = random.randint(2, 5)
     i = 0
@@ -15,5 +15,5 @@ def progression():
     correct_answer = progression_list[random_index]
     progression_list[random_index] = '..'
 
-    question = f'Question: {' '.join(map(str, progression_list))}'
+    question = f'{' '.join(map(str, progression_list))}'
     return question, str(correct_answer)
