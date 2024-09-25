@@ -1,6 +1,6 @@
 
 def start_game(name, get_question_and_answer):
-    for i in range(3):
+    for _ in range(3):
         question, correct_answer = get_question_and_answer()
         print(f'Question: {question}')
         answer = input('Your answer: ')
