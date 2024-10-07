@@ -10,9 +10,9 @@ def get_answer_and_question():
     progression_list = list(range(start, stop, step))
 
     random_index = random.randrange(length)
+    correct_answer = progression_list[random_index]
     progression_list[random_index] = '..'
 
-    correct_answer = progression_list[random_index]
     question = ' '.join(map(str, progression_list))
 
     return question, str(correct_answer)
